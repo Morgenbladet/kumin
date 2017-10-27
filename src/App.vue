@@ -306,7 +306,7 @@ $serif: 'Fanwood Text';
 $sans-serif: 'IM Fell English SC';
 #app {
   border-top: 4px groove black;
-  background-image: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/creampaper.png');
+  background-image: url('https://s3.eu-central-1.amazonaws.com/morgenbladet-static/kumin/static/creampaper.png');
   border-bottom: 4px groove black;
   padding: 1em;
   font-family: $serif, serif;
