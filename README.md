@@ -1,6 +1,6 @@
 # kumin
 
-> Kulturministersimulator
+Kulturministersimulator. Live på [morgenbladet.no](https://morgenbladet.no/2017/10/kulturministerspillet).
 
 ## Copyright
 
